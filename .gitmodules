@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = git@github.com:NaNajli/incubadora_noc.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:acostanoeliacba/IncubadoraFrontend.git
