@@ -4,3 +4,7 @@
 [submodule "Backend"]
 	path = Backend
 	url = git@github.com:acostanoeliacba/IncubadoraBackend.git
+
+[submodule "Incu-Backend"]
+	path = Incu-Backend
+	url = git@github.com:acostanoeliacba/IncubadoraBackend.git
