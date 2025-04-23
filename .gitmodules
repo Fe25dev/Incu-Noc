@@ -8,3 +8,6 @@
 [submodule "Incu-Backend"]
 	path = Incu-Backend
 	url = git@github.com:acostanoeliacba/IncubadoraBackend.git
+[submodule "Incu-Frontend"]
+	path = Incu-Frontend
+	url = git@github.com:acostanoeliacba/IncubadoraFrontend.git
